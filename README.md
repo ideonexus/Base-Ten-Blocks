@@ -2,7 +2,7 @@
 
 For teaching children base-10 number placement values, which are the foundation of our mathematics.
 
-[See it in action here.] (http://ideonexus.github.io/Explorable-Explanations/math/basetenblocks/)
+[See it in action here.](http://ideonexus.github.io/Explorable-Explanations/math/basetenblocks/)
 
 Part of the [Explorable Explanations Collection](http://ideonexus.github.io/Explorable-Explanations/) collection of educational javascript apps. 
 
